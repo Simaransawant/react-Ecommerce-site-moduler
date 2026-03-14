@@ -1,0 +1,60 @@
+[
+  {
+    "id": "p1",
+    "slug": "urban-sneaker-pro",
+    "name": "Urban Sneaker Pro",
+    "description": "Lightweight premium sneaker designed for all-day comfort.",
+    "specifications": ["Breathable knit upper", "Rubber grip sole", "Cushioned insole"],
+    "price": 129.99,
+    "salePrice": 99.99,
+    "category": "Shoes",
+    "image": "/images/products/shoe-1.jpg",
+    "gallery": ["/images/products/shoe-1.jpg", "/images/products/shoe-2.jpg"],
+    "rating": 4.7,
+    "reviewsCount": 124,
+    "availability": true,
+    "badge": "Best Seller",
+    "sizes": ["7", "8", "9", "10"],
+    "colors": ["Black", "White"],
+    "reviews": [
+      {"id": "r1", "author": "Mina", "rating": 5, "comment": "Amazing comfort and fit.", "date": "2026-01-20"}
+    ]
+  },
+  {
+    "id": "p2",
+    "slug": "minimal-backpack-x",
+    "name": "Minimal Backpack X",
+    "description": "Weather-resistant backpack for daily commute and travel.",
+    "specifications": ["25L capacity", "Laptop compartment", "Water-resistant shell"],
+    "price": 89.99,
+    "category": "Accessories",
+    "image": "/images/products/bag-1.jpg",
+    "gallery": ["/images/products/bag-1.jpg", "/images/products/bag-2.jpg"],
+    "rating": 4.5,
+    "reviewsCount": 88,
+    "availability": true,
+    "badge": "New",
+    "sizes": [],
+    "colors": ["Olive", "Gray"],
+    "reviews": [
+      {"id": "r2", "author": "James", "rating": 4, "comment": "Great build quality.", "date": "2026-02-10"}
+    ]
+  },
+  {
+    "id": "p3",
+    "slug": "smartwatch-active-s",
+    "name": "Smartwatch Active S",
+    "description": "Track workouts, sleep, and notifications in one sleek watch.",
+    "specifications": ["7-day battery", "AMOLED display", "Heart-rate sensor"],
+    "price": 179.99,
+    "category": "Electronics",
+    "image": "/images/products/watch-1.jpg",
+    "gallery": ["/images/products/watch-1.jpg", "/images/products/watch-2.jpg"],
+    "rating": 4.6,
+    "reviewsCount": 56,
+    "availability": false,
+    "sizes": [],
+    "colors": ["Black"],
+    "reviews": []
+  }
+]
