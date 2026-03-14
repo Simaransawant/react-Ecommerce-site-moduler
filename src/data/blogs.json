@@ -1,0 +1,24 @@
+[
+  {
+    "id": "b1",
+    "slug": "how-to-build-capsule-wardrobe",
+    "title": "How to Build a Capsule Wardrobe",
+    "author": "Admin",
+    "date": "2026-02-01",
+    "category": "Fashion",
+    "coverImage": "/images/blog/blog-1.jpg",
+    "excerpt": "Simple rules to build a timeless wardrobe with fewer pieces.",
+    "content": "Focus on quality basics, neutral colors, and versatile layers for every season."
+  },
+  {
+    "id": "b2",
+    "slug": "choosing-running-shoes",
+    "title": "Choosing the Right Running Shoes",
+    "author": "Coach Lee",
+    "date": "2026-02-12",
+    "category": "Fitness",
+    "coverImage": "/images/blog/blog-2.jpg",
+    "excerpt": "A practical guide to selecting shoes based on gait and terrain.",
+    "content": "Always test cushioning, heel support, and toe-box width before buying."
+  }
+]
